@@ -1,0 +1,29 @@
+body {
+  background: #3F5EFB;
+  background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+  text-align: center;
+}
+.cards{
+  display: flex;
+  justify-content: center;
+  letter-spacing: 5px;
+}
+hr{
+  border:3px solid #22C1C3;
+}
+
+.likes{
+  text-align: right;
+
+}
+button{
+  border-style: none;
+  border-radius: 6px;
+}
+.like{
+  border-radius: 6px;
+  border: #3F5EFB 5px solid;
+}
+small{
+  font-size: 10px;
+}

@@ -45,7 +45,7 @@ export const honapok=[
         name: "április",
         evszak: "tavasz",
         photoUrl: "./img/aprilis.jpg",
-        "eiras": "Vivamus dolor turpis, lobortis eu sagittis sit amet, posuere nec justo."
+        "leiras": "Vivamus dolor turpis, lobortis eu sagittis sit amet, posuere nec justo."
     },
     {
         name: "május",
